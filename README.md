@@ -1,2 +1,1 @@
-# reliablepsd.github.io
-reliablepsd github page
+# Github pages for reliablepsd repository
